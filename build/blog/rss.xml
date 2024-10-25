@@ -4,10 +4,109 @@
         <title>My Site Blog</title>
         <link>https://your-docusaurus-site.example.com/testDocusaurus/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Version 1.2.0 - Améliorations de performance et nouvelles fonctionnalités 🎉]]></title>
+            <link>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-améliorations-performance</link>
+            <guid>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-améliorations-performance</guid>
+            <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Salut à tous ! Nous sommes ravis d'annoncer la sortie de la version 1.2.0 de notre application. Cette mise à jour apporte de nouvelles fonctionnalités excitantes, des améliorations de performance, et corrige quelques bugs embêtants. 🎉]]></description>
+            <content:encoded><![CDATA[<p>Salut à tous ! Nous sommes ravis d'annoncer la sortie de la version <strong>1.2.0</strong> de notre application. Cette mise à jour apporte de nouvelles fonctionnalités excitantes, des améliorations de performance, et corrige quelques bugs embêtants. 🎉</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nouvelles-fonctionnalités">🚀 Nouvelles fonctionnalités<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-am%C3%A9liorations-performance#-nouvelles-fonctionnalit%C3%A9s" class="hash-link" aria-label="Lien direct vers 🚀 Nouvelles fonctionnalités" title="Lien direct vers 🚀 Nouvelles fonctionnalités">​</a></h2>
+<ul>
+<li><strong>Mode sombre automatique</strong> : votre application s'adapte désormais automatiquement au thème de votre système.</li>
+<li><strong>Tableau de bord personnalisé</strong> : personnalisez votre tableau de bord avec de nouveaux widgets et options de mise en page.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-améliorations">📈 Améliorations<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-am%C3%A9liorations-performance#-am%C3%A9liorations" class="hash-link" aria-label="Lien direct vers 📈 Améliorations" title="Lien direct vers 📈 Améliorations">​</a></h2>
+<ul>
+<li>Amélioration de la vitesse de chargement de l'application de <strong>30 %</strong> grâce à une optimisation des scripts.</li>
+<li>Les notifications push sont désormais plus rapides et mieux synchronisées.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-corrections-de-bugs">🐛 Corrections de bugs<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-am%C3%A9liorations-performance#-corrections-de-bugs" class="hash-link" aria-label="Lien direct vers 🐛 Corrections de bugs" title="Lien direct vers 🐛 Corrections de bugs">​</a></h2>
+<ul>
+<li>Correction d'un problème qui empêchait la connexion via Google sur certains appareils.</li>
+<li>Les filtres de recherche fonctionnent correctement après la mise à jour.</li>
+</ul>
+<p>Merci pour vos retours constants ! Mettez à jour dès maintenant pour profiter de ces nouvelles fonctionnalités.</p>]]></content:encoded>
+            <category>Release</category>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[Version 2.0.0 - Nouvelle Interface et Compatibilité Améliorée 🌟]]></title>
+            <link>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/20/version-2.0.0-nouvelle-interface</link>
+            <guid>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/20/version-2.0.0-nouvelle-interface</guid>
+            <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[La version 2.0.0 est là, et elle marque une étape importante avec une toute nouvelle interface utilisateur et de nombreuses améliorations de compatibilité. Découvrez ce qui change :]]></description>
+            <content:encoded><![CDATA[<p>La version <strong>2.0.0</strong> est là, et elle marque une étape importante avec une toute nouvelle interface utilisateur et de nombreuses améliorations de compatibilité. Découvrez ce qui change :</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nouvelles-fonctionnalités">✨ Nouvelles fonctionnalités<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/20/version-2.0.0-nouvelle-interface#-nouvelles-fonctionnalit%C3%A9s" class="hash-link" aria-label="Lien direct vers ✨ Nouvelles fonctionnalités" title="Lien direct vers ✨ Nouvelles fonctionnalités">​</a></h2>
+<ul>
+<li><strong>Interface utilisateur remaniée</strong> : un design plus moderne et intuitif pour une meilleure expérience.</li>
+<li><strong>Mode multi-utilisateurs</strong> : gérez facilement plusieurs comptes depuis la même application.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-améliorations">💪 Améliorations<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/20/version-2.0.0-nouvelle-interface#-am%C3%A9liorations" class="hash-link" aria-label="Lien direct vers 💪 Améliorations" title="Lien direct vers 💪 Améliorations">​</a></h2>
+<ul>
+<li>Compatibilité étendue avec les navigateurs récents.</li>
+<li>Les performances générales ont été augmentées, surtout pour les appareils plus anciens.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-corrections-de-bugs">🐛 Corrections de bugs<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/20/version-2.0.0-nouvelle-interface#-corrections-de-bugs" class="hash-link" aria-label="Lien direct vers 🐛 Corrections de bugs" title="Lien direct vers 🐛 Corrections de bugs">​</a></h2>
+<ul>
+<li>Résolution d'un bug empêchant l'importation de certains fichiers.</li>
+<li>Amélioration de la gestion des erreurs lors de la synchronisation des données.</li>
+</ul>
+<p>Profitez de cette mise à jour et n'hésitez pas à nous donner votre avis !</p>]]></content:encoded>
+            <category>Release</category>
+            <category>major-update</category>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.3.5 - Correction de bugs critiques et optimisations]]></title>
+            <link>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/09/15/version-1.3.5-correction-bugs</link>
+            <guid>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/09/15/version-1.3.5-correction-bugs</guid>
+            <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nous venons de déployer la version 1.3.5, qui se concentre principalement sur la correction de bugs critiques signalés par la communauté. Merci pour votre patience et vos retours !]]></description>
+            <content:encoded><![CDATA[<p>Nous venons de déployer la version <strong>1.3.5</strong>, qui se concentre principalement sur la correction de bugs critiques signalés par la communauté. Merci pour votre patience et vos retours !</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-corrections-de-bugs">🔧 Corrections de bugs<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/09/15/version-1.3.5-correction-bugs#-corrections-de-bugs" class="hash-link" aria-label="Lien direct vers 🔧 Corrections de bugs" title="Lien direct vers 🔧 Corrections de bugs">​</a></h2>
+<ul>
+<li>Résolution d'un crash fréquent sur les appareils Android 11 lors de l'utilisation du mode hors-ligne.</li>
+<li>Correction d'un problème de connexion avec les comptes Microsoft.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-optimisations">⚙️ Optimisations<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/09/15/version-1.3.5-correction-bugs#%EF%B8%8F-optimisations" class="hash-link" aria-label="Lien direct vers ⚙️ Optimisations" title="Lien direct vers ⚙️ Optimisations">​</a></h2>
+<ul>
+<li>Optimisation du chargement des images pour une meilleure utilisation de la mémoire.</li>
+<li>Amélioration de la précision des notifications de rappel.</li>
+</ul>
+<p>Mettez à jour votre application dès maintenant pour profiter d'une meilleure stabilité.</p>]]></content:encoded>
+            <category>Release</category>
+            <category>patch</category>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.4.0 - Introduction des Notifications Personnalisées 🛎️]]></title>
+            <link>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/08/30/version-1.4.0-notifications-personnalisées</link>
+            <guid>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/08/30/version-1.4.0-notifications-personnalisées</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nous sommes fiers de présenter la version 1.4.0, qui introduit la possibilité de personnaliser vos notifications. 🎉]]></description>
+            <content:encoded><![CDATA[<p>Nous sommes fiers de présenter la version <strong>1.4.0</strong>, qui introduit la possibilité de personnaliser vos notifications. 🎉</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nouvelles-fonctionnalités">🆕 Nouvelles fonctionnalités<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/08/30/version-1.4.0-notifications-personnalis%C3%A9es#-nouvelles-fonctionnalit%C3%A9s" class="hash-link" aria-label="Lien direct vers 🆕 Nouvelles fonctionnalités" title="Lien direct vers 🆕 Nouvelles fonctionnalités">​</a></h2>
+<ul>
+<li><strong>Notifications personnalisées</strong> : configurez vos alertes pour recevoir uniquement les informations les plus importantes.</li>
+<li><strong>Support des thèmes personnalisés</strong> : choisissez parmi plusieurs nouveaux thèmes ou créez le vôtre.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-améliorations">💡 Améliorations<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/08/30/version-1.4.0-notifications-personnalis%C3%A9es#-am%C3%A9liorations" class="hash-link" aria-label="Lien direct vers 💡 Améliorations" title="Lien direct vers 💡 Améliorations">​</a></h2>
+<ul>
+<li>La navigation est plus fluide et plus rapide.</li>
+<li>Amélioration des performances des animations dans l'application.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-corrections-de-bugs">🐞 Corrections de bugs<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/08/30/version-1.4.0-notifications-personnalis%C3%A9es#-corrections-de-bugs" class="hash-link" aria-label="Lien direct vers 🐞 Corrections de bugs" title="Lien direct vers 🐞 Corrections de bugs">​</a></h2>
+<ul>
+<li>Les widgets se chargent désormais correctement après un redémarrage.</li>
+<li>Résolution d'un problème d'affichage avec certains thèmes personnalisés.</li>
+</ul>
+<p>Essayez ces nouvelles options et faites-nous part de vos retours !</p>]]></content:encoded>
+            <category>Release</category>
+            <category>feature</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-site.example.com/testDocusaurus/blog/welcome</link>
