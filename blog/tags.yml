@@ -17,3 +17,18 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+release:
+  label: Release
+  permalink: /release
+  description: Liste toute les releases du produit
+
+hot-fix:
+  label: Hot Fix
+  permalink: /hotfix
+  description: hotfix du prod
+
+changelog:
+  label: Changelog
+  permalink: /changelog
+  description: Liste des changements du produit
