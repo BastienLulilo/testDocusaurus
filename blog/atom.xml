@@ -8,6 +8,46 @@
     <subtitle>My Site Blog</subtitle>
     <icon>https://your-docusaurus-site.example.com/testDocusaurus/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Nouvelle Fonctionnalité : Gestion des Tâches Collaboratives 📅]]></title>
+        <id>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite</id>
+        <link href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite"/>
+        <updated>2024-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nous sommes ravis de vous présenter notre toute nouvelle fonctionnalité]]></summary>
+        <content type="html"><![CDATA[<p>Nous sommes ravis de vous présenter notre toute nouvelle fonctionnalité : <strong>Gestion des Tâches Collaboratives</strong> ! 🎉 Avec cette mise à jour, nous facilitons la coordination et le suivi des projets au sein de vos équipes. Voici comment ça fonctionne :</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-quest-ce-que-la-gestion-des-tâches-collaboratives-">🚀 Qu'est-ce que la Gestion des Tâches Collaboratives ?<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite#-quest-ce-que-la-gestion-des-t%C3%A2ches-collaboratives-" class="hash-link" aria-label="Lien direct vers 🚀 Qu'est-ce que la Gestion des Tâches Collaboratives ?" title="Lien direct vers 🚀 Qu'est-ce que la Gestion des Tâches Collaboratives ?">​</a></h2>
+<p>Cette fonctionnalité permet aux utilisateurs de créer, assigner et suivre des tâches dans un environnement collaboratif. Idéale pour les équipes travaillant sur des projets communs, elle offre une gestion fluide et structurée du travail, assurant que chaque tâche soit bien prise en charge et suivie jusqu'à sa complétion.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-fonctionnalités-principales">🏗️ Fonctionnalités principales<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite#%EF%B8%8F-fonctionnalit%C3%A9s-principales" class="hash-link" aria-label="Lien direct vers 🏗️ Fonctionnalités principales" title="Lien direct vers 🏗️ Fonctionnalités principales">​</a></h2>
+<ul>
+<li><strong>Création de tâches simplifiée</strong> : Ajoutez rapidement de nouvelles tâches avec des descriptions détaillées, des assignations et des priorités.</li>
+<li><strong>Suivi des tâches en temps réel</strong> : Visualisez la progression de chaque tâche et recevez des notifications pour les mises à jour importantes.</li>
+<li><strong>Collaboration fluide</strong> : Joignez des fichiers, ajoutez des commentaires, et collaborez directement sur chaque tâche.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-diagramme-de-flux-de-la-fonctionnalité">📊 Diagramme de flux de la fonctionnalité<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite#-diagramme-de-flux-de-la-fonctionnalit%C3%A9" class="hash-link" aria-label="Lien direct vers 📊 Diagramme de flux de la fonctionnalité" title="Lien direct vers 📊 Diagramme de flux de la fonctionnalité">​</a></h2>
+<!-- -->
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="explications-des-changements-">Explications des changements :<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite#explications-des-changements-" class="hash-link" aria-label="Lien direct vers Explications des changements :" title="Lien direct vers Explications des changements :">​</a></h3>
+<ul>
+<li><strong><code>theme: "dark"</code></strong> : Active le thème sombre par défaut de Mermaid.</li>
+<li><strong><code>themeVariables</code></strong> : Te permet de personnaliser les couleurs, comme :<!-- -->
+<ul>
+<li><code>primaryColor</code>, <code>tertiaryColor</code>, etc. pour les différentes teintes utilisées dans le diagramme.</li>
+<li><code>nodeTextColor</code> pour s'assurer que le texte soit visible en blanc.</li>
+<li><code>edgeLabelBackground</code> pour changer la couleur d'arrière-plan des étiquettes sur les flèches.</li>
+<li><code>fontFamily</code> pour choisir la police.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="astuce-supplémentaire-">Astuce supplémentaire :<a href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/nouvelle-fonctionnalite#astuce-suppl%C3%A9mentaire-" class="hash-link" aria-label="Lien direct vers Astuce supplémentaire :" title="Lien direct vers Astuce supplémentaire :">​</a></h3>
+<p>Si tu souhaites ajuster encore plus les styles par défaut, tu peux créer un fichier CSS Mermaid personnalisé et l'importer via ton fichier <code>docusaurus.config.js</code>. Cette approche te donne un contrôle total sur les couleurs et le style des diagrammes.</p>
+<p>Essaie avec ce code et dis-moi si ça améliore le rendu ! 😊</p>]]></content>
+        <author>
+            <name>Fooxiie</name>
+            <uri>https://github.com/fooxiie</uri>
+        </author>
+        <category label="feature" term="feature"/>
+        <category label="collaboration" term="collaboration"/>
+        <category label="tasks" term="tasks"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Version 1.2.0 - Améliorations de performance et nouvelles fonctionnalités 🎉]]></title>
         <id>https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-améliorations-performance</id>
         <link href="https://your-docusaurus-site.example.com/testDocusaurus/blog/2024/10/26/version-1.2.0-améliorations-performance"/>
@@ -32,6 +72,7 @@
 <p>Merci pour vos retours constants ! Mettez à jour dès maintenant pour profiter de ces nouvelles fonctionnalités.</p>]]></content>
         <author>
             <name>Fooxiie</name>
+            <uri>https://github.com/fooxiie</uri>
         </author>
         <category label="Release" term="Release"/>
         <category label="Changelog" term="Changelog"/>
@@ -61,9 +102,10 @@
 <p>Profitez de cette mise à jour et n'hésitez pas à nous donner votre avis !</p>]]></content>
         <author>
             <name>Fooxiie</name>
+            <uri>https://github.com/fooxiie</uri>
         </author>
         <category label="Release" term="Release"/>
-        <category label="major-update" term="major-update"/>
+        <category label="Mise à jour majeure" term="Mise à jour majeure"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Version 1.3.5 - Correction de bugs critiques et optimisations]]></title>
@@ -85,6 +127,7 @@
 <p>Mettez à jour votre application dès maintenant pour profiter d'une meilleure stabilité.</p>]]></content>
         <author>
             <name>Fooxiie</name>
+            <uri>https://github.com/fooxiie</uri>
         </author>
         <category label="Release" term="Release"/>
         <category label="patch" term="patch"/>
@@ -114,6 +157,7 @@
 <p>Essayez ces nouvelles options et faites-nous part de vos retours !</p>]]></content>
         <author>
             <name>Fooxiie</name>
+            <uri>https://github.com/fooxiie</uri>
         </author>
         <category label="Release" term="Release"/>
         <category label="feature" term="feature"/>
