@@ -63,6 +63,14 @@ const config: Config = {
     ],
   ],
 
+  // Ajout de la configuration pour Mermaid
+  markdown: {
+    mermaid: true, // Activer le support Mermaid dans les fichiers Markdown
+  },
+
+  // Ajouter le plugin Mermaid à la liste des thèmes utilisés
+  themes: ['@docusaurus/theme-mermaid'],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',

@@ -32,3 +32,8 @@ changelog:
   label: Changelog
   permalink: /changelog
   description: Liste des changements du produit
+
+major-update:
+  label: Mise à jour majeure
+  permalink: /majorUpdate
+  description: sen fous
