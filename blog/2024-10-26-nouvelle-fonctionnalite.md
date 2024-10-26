@@ -1,6 +1,6 @@
 ---
 title: "Nouvelle Fonctionnalité : Gestion des Tâches Collaboratives 📅"
-author: fooxiie
+authors: fooxiie
 date: 2024-10-26
 tags: [feature, collaboration, tasks]
 ---
